@@ -1,2 +1,2 @@
 # whake
-ruby game "whake a mole"
+ruby game "whack a mole"
